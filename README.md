@@ -1,6 +1,6 @@
 # Deep Learning in Practice
 
-**Teaching team**:
+**Teaching team**: 
   - Most lectures: Guillaume Charpiat
   - Practical sessions: Wenzhuo Liu, Lucas Meyer and Matthieu Nastorg (incl. materials by Victor Berger, Alessandro Bucci and Loris Felardos)
 
